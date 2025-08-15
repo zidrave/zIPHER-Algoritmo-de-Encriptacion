@@ -40,4 +40,5 @@
 - Su estructura modular permite futuras mejoras, como integración con algoritmos de derivación más avanzados (scrypt, Argon2) o soporte para cifrado de archivos grandes.  
 - Es ideal para **entornos privados o educativos**, donde se quiere explorar conceptos de criptografía moderna de forma creativa y segura dentro de un laboratorio de pruebas.  
 
-> ⚠️ **Nota:** Aunque Zipher muestra un nivel teórico de seguridad elevado (puntaje estimado: 82/100), no reemplaza estándares probados como **AES-256** o **ChaCha20** para aplicaciones críticas en producción.
+> ⚠️ **Nota:** Aunque Zipher muestra un nivel teórico de seguridad elevado (puntaje estimado: 82/100), aun no reemplaza estándares probados como **AES-256** o **ChaCha20**
+
