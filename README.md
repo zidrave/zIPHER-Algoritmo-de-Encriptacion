@@ -136,7 +136,7 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 ## 🔍 **Security**
 
-If you discover a security vulnerability, please send an email to [security@yourproject.com](mailto:security@zidrave.net) instead of using the issue tracker.
+If you discover a security vulnerability, please send an email to [security@zidrave.net](mailto:security@zidrave.net) instead of using the issue tracker.
 
 ---
 
