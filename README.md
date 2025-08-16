@@ -89,7 +89,7 @@ Zipher v3.1 is a high-security encryption library that achieves an **88/100** se
 
 ```php
 <?php
-require_once 'zipher.php';
+require_once 'libreria.php';
 
 // Encrypt data
 $encrypted = encrypt_dual_key("Secret message", "your_password");
